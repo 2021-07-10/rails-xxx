@@ -8,6 +8,10 @@
 * [`5.2.6`](https://github.com/rails/rails/blob/v5.2.6/railties/lib/rails/generators/rails/app/app_generator.rb#L497) `.tr('\\', "").tr(". ", "_")`
 
 
+## Github
+
+* 测试信息
+
 ## Initialize
 
 ```bash
